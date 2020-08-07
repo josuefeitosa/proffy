@@ -26,7 +26,8 @@
         {
           "ts": "never"
         }
-      ]
+      ],
+      "radix": "off"
     },
     "settings": {
       "import/resolver": {
