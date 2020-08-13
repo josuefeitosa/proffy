@@ -27,7 +27,11 @@
           "ts": "never"
         }
       ],
-      "radix": "off"
+      "no-console": "off",
+      "radix": "off",
+      "camelcase": "off",
+      "class-methods-use-this": "off",
+      "func-names":"off"
     },
     "settings": {
       "import/resolver": {
